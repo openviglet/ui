@@ -137,7 +137,7 @@ h6 {
 .navbar-default .navbar-left>li:hover {
     color: #333;
     background-color: transparent;
-    border-bottom-color: orange;
+    border-bottom-color: #FF691F;
     border-bottom-width: 2px;
     border-bottom-style: solid;
 }
@@ -152,7 +152,7 @@ navbar-default .navbar-left>li:focus,
 }
 
 .navbar-default .navbar-left>li.active {
-    border-bottom-color: orange;
+    border-bottom-color: #FF874B;
     border-bottom-width: 2px;
     border-bottom-style: solid;
 }
