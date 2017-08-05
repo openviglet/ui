@@ -2,18 +2,18 @@
     color: #FF874B;
 }
 
-.fa-viglet:hover {
-    color: #FF691F;
+.fa-viglet:focus .fa-viglet:hover {
+    color: white !important;
 }
 
 .btn-viglet {
     background-color: #FF874B;
-    color: white;
+    color: white !important;
 }
 
 .btn-viglet:hover {
     background-color: #FF691F;
-    color: white;
+    color: white !important;
 }
 .video-container {
     position: relative;
